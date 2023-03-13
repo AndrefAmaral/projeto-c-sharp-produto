@@ -1,0 +1,13 @@
+C:\dev\Produto\bin\Debug\netcoreapp3.1\Produto.exe
+C:\dev\Produto\bin\Debug\netcoreapp3.1\Produto.deps.json
+C:\dev\Produto\bin\Debug\netcoreapp3.1\Produto.runtimeconfig.json
+C:\dev\Produto\bin\Debug\netcoreapp3.1\Produto.runtimeconfig.dev.json
+C:\dev\Produto\bin\Debug\netcoreapp3.1\Produto.dll
+C:\dev\Produto\bin\Debug\netcoreapp3.1\Produto.pdb
+C:\dev\Produto\obj\Debug\netcoreapp3.1\Produto.csprojAssemblyReference.cache
+C:\dev\Produto\obj\Debug\netcoreapp3.1\Produto.AssemblyInfoInputs.cache
+C:\dev\Produto\obj\Debug\netcoreapp3.1\Produto.AssemblyInfo.cs
+C:\dev\Produto\obj\Debug\netcoreapp3.1\Produto.csproj.CoreCompileInputs.cache
+C:\dev\Produto\obj\Debug\netcoreapp3.1\Produto.dll
+C:\dev\Produto\obj\Debug\netcoreapp3.1\Produto.pdb
+C:\dev\Produto\obj\Debug\netcoreapp3.1\Produto.genruntimeconfig.cache
